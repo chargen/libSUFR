@@ -3,6 +3,9 @@
   ChangeLog.txt for libSUFR
   
   
+    9: AstroFloyd, 5/10/2010
+      - Updated Doxygen
+    
     8: AstroFloyd, 5/10/2010
       - Renamed libAF to libSUFR internally
       
