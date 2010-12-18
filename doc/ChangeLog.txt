@@ -3,6 +3,9 @@
   ChangeLog.txt for libSUFR
   
   
+   13: AstroFloyd, 18/12/2010
+      - updated CMake: compile locally, then install
+      
    12: AstroFloyd, 18/12/2010
       - updated Doxygen comments
       
