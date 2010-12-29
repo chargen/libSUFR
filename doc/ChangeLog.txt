@@ -3,6 +3,9 @@
   ChangeLog.txt for libSUFR
   
   
+   18: AstroFloyd, 29/12/2010
+     - Updated date/time constants
+     
    17: AstroFloyd, 29/12/2010
      - Updated CMake files
    
