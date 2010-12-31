@@ -3,6 +3,10 @@
   ChangeLog.txt for libSUFR
   
     
+   21: AstroFloyd, 31/12/2010
+     - Added g95 to CMake
+     - Fixed a few g95 warnings
+     
    20: AstroFloyd, 30/12/2010
      - Default CMake files without run-time checks
      
