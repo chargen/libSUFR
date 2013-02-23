@@ -6,14 +6,14 @@
 !!  under the conditions of the GPL v.3.
 !!  
 !!  \par
-!!  &copy; 2002-2012 AstroFloyd - astrofloyd.org
+!!  &copy; 2002-2013 AstroFloyd - astrofloyd.org
 !!
 !!  \see
 !!  These pages contain the documentation for libSUFR, created by Doxygen.  
 !!  For the libSUFR home page, see: http://libsufr.sourceforge.net
 
 
-!  Copyright 2002-2012 AstroFloyd - astrofloyd.org
+!  Copyright 2002-2013 AstroFloyd - astrofloyd.org
 !   
 !  This file is part of the libSUFR package, 
 !  see: http://libsufr.sourceforge.net/

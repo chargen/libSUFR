@@ -1,7 +1,7 @@
 !> \file random_numbers.f90  Procedures to generate random numbers
 
 
-!  Copyright 2002-2012 AstroFloyd - astrofloyd.org
+!  Copyright 2002-2013 AstroFloyd - astrofloyd.org
 !   
 !  This file is part of the libSUFR package, 
 !  see: http://libsufr.sourceforge.net/
