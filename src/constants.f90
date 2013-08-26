@@ -1,7 +1,7 @@
 !> \file constants.f90  Procedures to define and share constants
 
 
-!  Copyright 2002-2013 AstroFloyd - astrofloyd.org
+!  Copyright (c) 2002-2013  AstroFloyd - astrofloyd.org
 !   
 !  This file is part of the libSUFR package, 
 !  see: http://libsufr.sourceforge.net/
