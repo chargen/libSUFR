@@ -1,7 +1,7 @@
 !> \file angle2string.f90  Procedures to convert angles to formatted text strings
 
 
-!  Copyright (c) 2002-2014  AstroFloyd - astrofloyd.org
+!  Copyright (c) 2002-2015  AstroFloyd - astrofloyd.org
 !   
 !  This file is part of the libSUFR package, 
 !  see: http://libsufr.sourceforge.net/
