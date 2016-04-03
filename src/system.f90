@@ -1,7 +1,7 @@
 !> \file system.f90  System-related procedures
 
 
-!  Copyright (c) 2002-2015  AstroFloyd - astrofloyd.org
+!  Copyright (c) 2002-2016  AstroFloyd - astrofloyd.org
 !   
 !  This file is part of the libSUFR package, 
 !  see: http://libsufr.sourceforge.net/
