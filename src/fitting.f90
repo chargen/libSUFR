@@ -1,7 +1,7 @@
 !> \file fitting.f90  Procedures to fit functions to data
 
 
-!  Copyright (c) 2002-2016  AstroFloyd - astrofloyd.org
+!  Copyright (c) 2002-2017  AstroFloyd - astrofloyd.org
 !   
 !  This file is part of the libSUFR package, 
 !  see: http://libsufr.sourceforge.net/
